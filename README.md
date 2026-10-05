@@ -10,3 +10,8 @@ De Roastfuel-app haalt `facts.json` op en toont de slides om de beurt.
 
 De app kijkt bij het openen en daarna om de paar uur of er een nieuwe versie is.
 Zonder internet toont ze wat ze de vorige keer ophaalde, of anders de ingebouwde lijst.
+
+## Privacy
+
+`privacy/index.html` is de privacyverklaring van de app (NL/EN), gepubliceerd via
+GitHub Pages. Die URL staat in App Store Connect en Google Play.

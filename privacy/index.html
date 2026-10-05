@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy — Roastfuel-app</title>
+<meta name="description" content="Wat de Roastfuel-app bewaart, en wat niet. What the Roastfuel app stores, and what it does not.">
+<meta name="theme-color" content="#0E0E0E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0E0E0E; --raised: #121212; --text: #FFFFFF; --muted: #A0A0A0;
+    --line: rgba(255,255,255,.9); --hair: #2E2E2E; --orange: #DF752F;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--text); }
+  body { font: 400 16px/1.6 Inter, system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 0 20px; }
+  header { padding: 28px 0 8px; display: flex; justify-content: space-between; align-items: center; gap: 16px; }
+  .brand { font: 700 22px/1 "Barlow Condensed", sans-serif; letter-spacing: .5px; color: var(--text); text-decoration: none; }
+  .brand span, .slash { color: var(--orange); }
+  .lang a { color: var(--muted); text-decoration: none; font: 600 14px/1 "Barlow Condensed", sans-serif; letter-spacing: 1px; margin-left: 14px; }
+  .lang a:hover { color: var(--orange); }
+  h1 { font: 700 clamp(44px, 9vw, 72px)/0.95 "Barlow Condensed", sans-serif; text-transform: uppercase; margin: 36px 0 12px; }
+  .lede { color: var(--muted); font-size: 18px; margin: 0 0 12px; }
+  .updated { color: var(--muted); font-size: 13px; margin: 0 0 32px; }
+  .card { border: 1px solid var(--line); border-radius: 16px; padding: 22px 22px 8px; margin-bottom: 16px; }
+  .card.raised { background: var(--raised); }
+  h2 { font: 600 15px/1 "Barlow Condensed", sans-serif; letter-spacing: 1px; text-transform: uppercase; color: var(--orange); margin: 0 0 14px; }
+  ul { margin: 0 0 14px; padding-left: 18px; }
+  li { margin: 0 0 8px; }
+  li::marker { color: var(--orange); }
+  a { color: var(--orange); }
+  section.lang-block + section.lang-block { margin-top: 64px; padding-top: 24px; border-top: 1px solid var(--hair); }
+  footer { color: var(--muted); font-size: 13px; padding: 28px 0 40px; border-top: 1px solid var(--hair); margin-top: 28px; display: flex; flex-wrap: wrap; gap: 8px 20px; justify-content: space-between; }
+  @media (max-width: 480px) { .card { padding: 18px 16px 4px; } .lede { font-size: 16px; } }
+</style>
+</head>
+<body>
+<header class="wrap">
+  <a class="brand" href="https://roastfuel.be">ROAST<span>FUEL</span></a>
+  <nav class="lang"><a href="#nl">NL</a><a href="#en">EN</a></nav>
+</header>
+<main class="wrap">
+
+<section class="lang-block" id="nl" lang="nl">
+  <h1>Wat de app <span class="slash">bewaart/</span></h1>
+  <p class="lede">Je zak, je porties en je water. Niets over jou verlaat je toestel.</p>
+  <p class="updated">Bijgewerkt op 6 oktober 2026 · geldt voor de Roastfuel-app voor iPhone, iPad en Android.</p>
+
+  <div class="card raised">
+    <h2>Op je toestel</h2>
+    <ul>
+      <li>De app bewaart je zak (product, aantal porties, wat je gebruikt hebt), de dagen waarop je een portie logde, je leeftijd, je creatine per portie, je water per dag, je taal en het uur van je herinnering.</li>
+      <li>Dat staat alleen op je toestel en zit in je eigen back-up. Er is geen server en geen account.</li>
+      <li>Je leeftijd wordt alleen gebruikt om je minimale hoeveelheid water uit te rekenen.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>Online</h2>
+    <ul>
+      <li>De app haalt nieuwe feitjes en fabels op als een gewoon tekstbestand van GitHub. Daarbij wordt niets over jou meegestuurd; GitHub ziet zoals elke website je IP-adres.</li>
+      <li>De knop Bestellen opent roastfuel.be in je browser. Daar geldt het <a href="https://roastfuel.be/policies/privacy-policy">privacybeleid van de webshop</a>.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>Meldingen</h2>
+    <ul>
+      <li>Herinneringen worden op je toestel zelf ingepland. Er gaat niets via een pushdienst.</li>
+      <li>Je kunt ze uitzetten met de schakelaar in de app of in de instellingen van je toestel.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>Wat niet verzameld wordt</h2>
+    <ul>
+      <li>Geen analytics, geen advertenties, geen tracking, geen identificatie die je volgt.</li>
+      <li>Geen gegevens worden gedeeld met of verkocht aan derden.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>Geen medisch advies</h2>
+    <ul>
+      <li>De app geeft algemene informatie over creatine en water, met bronnen. Ze vervangt geen arts. Heb je een aandoening, neem je medicatie of ben je zwanger, vraag dan je arts of creatine voor jou geschikt is.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>Gegevens wissen</h2>
+    <ul>
+      <li>Verwijder de app. Alles wat ze bewaarde, verdwijnt mee.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>Vragen</h2>
+    <ul>
+      <li>Neem contact op met Roastfuel via <a href="https://roastfuel.be/pages/contact">roastfuel.be/pages/contact</a>.</li>
+    </ul>
+  </div>
+</section>
+
+<section class="lang-block" id="en" lang="en">
+  <h1>What the app <span class="slash">stores/</span></h1>
+  <p class="lede">Your bag, your portions and your water. Nothing about you leaves your device.</p>
+  <p class="updated">Updated 6 October 2026 · applies to the Roastfuel app for iPhone, iPad and Android.</p>
+
+  <div class="card raised">
+    <h2>On your device</h2>
+    <ul>
+      <li>The app stores your bag (product, number of portions, how many you used), the days you logged a portion, your age, your creatine per portion, your water per day, your language and your reminder time.</li>
+      <li>That stays on your device only and is part of your own backup. There is no server and no account.</li>
+      <li>Your age is only used to work out your minimum amount of water.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>Online</h2>
+    <ul>
+      <li>The app downloads new facts and myths as a plain text file from GitHub. Nothing about you is sent along; like any website, GitHub sees your IP address.</li>
+      <li>The Order button opens roastfuel.be in your browser. The <a href="https://roastfuel.be/policies/privacy-policy">web shop's privacy policy</a> applies there.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>Notifications</h2>
+    <ul>
+      <li>Reminders are scheduled on your device itself. Nothing goes through a push service.</li>
+      <li>Turn them off with the switch in the app or in your device's settings.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>Not collected</h2>
+    <ul>
+      <li>No analytics, no ads, no tracking, no identifier that follows you.</li>
+      <li>No data is shared with or sold to third parties.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>Not medical advice</h2>
+    <ul>
+      <li>The app gives general information about creatine and water, with sources. It does not replace a doctor. If you have a condition, take medication or are pregnant, ask your doctor whether creatine is right for you.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>Deleting your data</h2>
+    <ul>
+      <li>Delete the app. Everything it stored goes with it.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>Questions</h2>
+    <ul>
+      <li>Contact Roastfuel via <a href="https://roastfuel.be/pages/contact">roastfuel.be/pages/contact</a>.</li>
+    </ul>
+  </div>
+</section>
+
+</main>
+<footer class="wrap">
+  <span>© 2026 Roastfuel</span>
+  <a href="https://roastfuel.be" style="color:inherit;text-decoration:none">roastfuel.be ↗</a>
+</footer>
+</body>
+</html>
