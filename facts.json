@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "updated": "2026-10-05",
+  "slides": [
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Creatine is slecht voor je nieren.”",
+        "en": "“Creatine is bad for your kidneys.”"
+      },
+      "fact": {
+        "nl": "Bij gezonde mensen tast creatine in de aanbevolen dosis de nieren niet aan. Je creatininewaarde in het bloed kan wel wat stijgen, maar dat is geen schade.",
+        "en": "In healthy people, creatine at the recommended dose does not harm the kidneys. Your blood creatinine can rise a little, but that is not damage."
+      },
+      "source": "Antonio et al., Journal of the ISSN (2021)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Ongeveer 95% van de creatine in je lichaam zit in je skeletspieren.",
+        "en": "About 95% of the creatine in your body is stored in your skeletal muscles."
+      },
+      "source": "Wyss & Kaddurah-Daouk, Physiological Reviews (2000)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Vrouwen worden er dik van.”",
+        "en": "“It makes women bulky.”"
+      },
+      "fact": {
+        "nl": "Creatine kan in het begin wat extra water in je spieren vasthouden. Dat is geen vet, en het verdwijnt weer als je stopt.",
+        "en": "Creatine can hold a little extra water in your muscles at first. That is not fat, and it goes away when you stop."
+      },
+      "source": "Smith-Ryan et al., Nutrients (2021)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Je lichaam maakt zelf ongeveer 1 gram creatine per dag aan, vooral in je nieren en lever.",
+        "en": "Your body makes about 1 gram of creatine a day by itself, mostly in your kidneys and liver."
+      },
+      "source": "Wyss & Kaddurah-Daouk, Physiological Reviews (2000)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Je moet creatine cyclen.”",
+        "en": "“You need to cycle creatine.”"
+      },
+      "fact": {
+        "nl": "Pauzes zijn niet nodig. Studies tot vijf jaar lang vonden bij gezonde mensen geen nadelen van dagelijks 3 tot 5 gram.",
+        "en": "Breaks are not needed. Studies lasting up to five years found no downsides of 3 to 5 grams a day in healthy people."
+      },
+      "source": "Kreider et al., Journal of the ISSN (2017)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "3 gram per dag vult je spieren in ongeveer vier weken net zo goed als een laadfase van 20 gram per dag.",
+        "en": "3 grams a day fills your muscles in about four weeks, just as well as a 20-gram-a-day loading phase."
+      },
+      "source": "Hultman et al., Journal of Applied Physiology (1996)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Creatine is een steroïde.”",
+        "en": "“Creatine is a steroid.”"
+      },
+      "fact": {
+        "nl": "Nee. Je lichaam maakt het zelf aan, en het zit gewoon in vlees en vis.",
+        "en": "No. Your body makes it itself, and it is found in meat and fish."
+      },
+      "source": "Antonio et al., Journal of the ISSN (2021)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Creatinemonohydraat is de best onderzochte vorm van creatine.",
+        "en": "Creatine monohydrate is the most researched form of creatine."
+      },
+      "source": "Kreider et al., Journal of the ISSN (2017)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Zonder laadfase werkt het niet.”",
+        "en": "“It does not work without a loading phase.”"
+      },
+      "fact": {
+        "nl": "Ook zonder laadfase raken je spieren vol, alleen trager: met 3 gram per dag duurt het ongeveer vier weken.",
+        "en": "Your muscles fill up without a loading phase too, just more slowly: with 3 grams a day it takes about four weeks."
+      },
+      "source": "Hultman et al., Journal of Applied Physiology (1996)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Creatine helpt vooral bij korte, explosieve inspanningen na elkaar, zoals sprints en krachttraining.",
+        "en": "Creatine mainly helps with short, explosive efforts in a row, like sprints and strength training."
+      },
+      "source": "EFSA Journal 9(7):2303 (2011)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Creatine doet je haar uitvallen.”",
+        "en": "“Creatine makes your hair fall out.”"
+      },
+      "fact": {
+        "nl": "Daar is geen overtuigend bewijs voor. Het idee komt uit één kleine studie die geen haaruitval mat.",
+        "en": "There is no convincing evidence for that. The idea comes from one small study that did not measure hair loss."
+      },
+      "source": "Antonio et al., Journal of the ISSN (2021)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Vegetariërs hebben vaak minder creatine in hun spieren, omdat het vooral in vlees en vis zit.",
+        "en": "Vegetarians often have less creatine in their muscles, because it is mostly found in meat and fish."
+      },
+      "source": "Burke et al., Medicine & Science in Sports & Exercise (2003)"
+    }
+  ]
+}
