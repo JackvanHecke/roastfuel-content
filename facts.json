@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-05",
+  "updated": "2026-10-07",
   "slides": [
     {
       "kind": "fabel",
@@ -121,6 +121,146 @@
         "en": "Vegetarians often have less creatine in their muscles, because it is mostly found in meat and fish."
       },
       "source": "Burke et al., Medicine & Science in Sports & Exercise (2003)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Creatine geeft krampen en droogt je uit.”",
+        "en": "“Creatine causes cramps and dehydration.”"
+      },
+      "fact": {
+        "nl": "Onderzoek vond niet meer krampen of uitdroging, ook niet bij sporten in de hitte. Drink wel gewoon genoeg.",
+        "en": "Studies found no more cramps or dehydration, not even when exercising in the heat. Do keep drinking enough."
+      },
+      "source": "Lopez et al., Journal of Athletic Training (2009)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Een volwassene van 70 kilo heeft ongeveer 120 tot 140 gram creatine in zijn lichaam.",
+        "en": "An adult of 70 kilos carries about 120 to 140 grams of creatine."
+      },
+      "source": "Kreider et al., Journal of the ISSN (2017)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Creatine doet vet aankomen.”",
+        "en": "“Creatine makes you gain fat.”"
+      },
+      "fact": {
+        "nl": "Wat je in het begin bijkomt, is water in je spieren. Studies vonden geen toename van vetmassa.",
+        "en": "What you gain at first is water in your muscles. Studies found no increase in fat mass."
+      },
+      "source": "Antonio et al., Journal of the ISSN (2021)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Elke dag wordt zo’n 1 à 2% van je creatine afgebroken tot creatinine, dat je uitplast.",
+        "en": "Every day about 1 to 2% of your creatine breaks down into creatinine, which you pee out."
+      },
+      "source": "Wyss & Kaddurah-Daouk, Physiological Reviews (2000)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Hoe meer, hoe beter.”",
+        "en": "“The more, the better.”"
+      },
+      "fact": {
+        "nl": "Zijn je spieren vol, dan plas je het overschot gewoon uit. 3 tot 5 gram per dag houdt ze vol.",
+        "en": "Once your muscles are full, you simply pee out the rest. 3 to 5 grams a day keeps them full."
+      },
+      "source": "Kreider et al., Journal of the ISSN (2017)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Een halve kilo rauw rundvlees of zalm bevat maar zo’n 1 tot 2 gram creatine.",
+        "en": "Half a kilo of raw beef or salmon holds only about 1 to 2 grams of creatine."
+      },
+      "source": "Kreider et al., Journal of the ISSN (2017)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Creatine is doping.”",
+        "en": "“Creatine is doping.”"
+      },
+      "fact": {
+        "nl": "Creatine staat niet op de lijst van verboden middelen van het Wereldantidopingagentschap.",
+        "en": "Creatine is not on the World Anti-Doping Agency’s list of prohibited substances."
+      },
+      "source": "WADA Prohibited List"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "In warm water lost creatine veel beter op dan in koud water.",
+        "en": "Creatine dissolves much better in warm water than in cold water."
+      },
+      "source": "Jäger et al., Amino Acids (2011)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Je moet het meteen na je training nemen.”",
+        "en": "“You have to take it right after training.”"
+      },
+      "fact": {
+        "nl": "Rond je training nemen kan een klein voordeel geven, maar het belangrijkste is dat je het elke dag neemt.",
+        "en": "Taking it around your workout may help a little, but what matters most is taking it every day."
+      },
+      "source": "Kreider et al., Journal of the ISSN (2017)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Creatine helpt je spieren om bij korte, zware inspanningen snel nieuwe energie (ATP) te maken.",
+        "en": "Creatine helps your muscles quickly make new energy (ATP) during short, hard efforts."
+      },
+      "source": "Wyss & Kaddurah-Daouk, Physiological Reviews (2000)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Stop je, dan ben je alles kwijt.”",
+        "en": "“Stop, and you lose everything.”"
+      },
+      "fact": {
+        "nl": "Je creatinevoorraad zakt in vier tot zes weken terug naar je gewone niveau, niet eronder. Je lichaam maakt het gewoon weer zelf aan.",
+        "en": "Your creatine stores drop back to your normal level in four to six weeks, not below it. Your body simply makes its own again."
+      },
+      "source": "Kreider et al., Journal of the ISSN (2017)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Bij 55-plussers versterkt 3 gram creatine per dag het effect van krachttraining op de spierkracht.",
+        "en": "In people over 55, 3 grams of creatine a day boosts the effect of strength training on muscle strength."
+      },
+      "source": "EFSA Journal 14(2):4400 (2016)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Creatine is alleen voor bodybuilders.”",
+        "en": "“Creatine is only for bodybuilders.”"
+      },
+      "fact": {
+        "nl": "Het helpt ook bij sprints en ploegsporten met korte versnellingen, zoals voetbal en hockey.",
+        "en": "It also helps with sprints and team sports with short bursts, like football and hockey."
+      },
+      "source": "Kreider et al., Journal of the ISSN (2017)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Creatinemonohydraat bestaat voor ongeveer 88% uit creatine; de rest is gebonden water.",
+        "en": "Creatine monohydrate is about 88% creatine; the rest is bound water."
+      },
+      "source": "Jäger et al., Amino Acids (2011)"
     }
   ]
 }
