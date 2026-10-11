@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-07",
+  "updated": "2026-10-11",
   "slides": [
     {
       "kind": "fabel",
@@ -261,6 +261,126 @@
         "en": "Creatine monohydrate is about 88% creatine; the rest is bound water."
       },
       "source": "Jäger et al., Amino Acids (2011)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Creatine werkt bij iedereen even goed.”",
+        "en": "“Creatine works equally well for everyone.”"
+      },
+      "fact": {
+        "nl": "Wie weinig creatine in zijn spieren heeft, zoals veel vegetariërs, merkt meestal het meeste. Wie al veel heeft, merkt minder.",
+        "en": "People with little creatine in their muscles, like many vegetarians, usually notice the most. Those who already have a lot notice less."
+      },
+      "source": "Kreider et al., Journal of the ISSN (2017)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Creatine werd in 1832 in vlees ontdekt. De naam komt van het Griekse woord voor vlees: kreas.",
+        "en": "Creatine was discovered in meat in 1832. Its name comes from the Greek word for meat: kreas."
+      },
+      "source": "Wyss & Kaddurah-Daouk, Physiological Reviews (2000)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Creatine is alleen voor mannen.”",
+        "en": "“Creatine is only for men.”"
+      },
+      "fact": {
+        "nl": "Ook bij vrouwen helpt creatine, samen met training, om sterker te worden en beter te presteren.",
+        "en": "Creatine also helps women, together with training, to get stronger and perform better."
+      },
+      "source": "Smith-Ryan et al., Nutrients (2021)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Je lichaam maakt creatine uit drie aminozuren: arginine, glycine en methionine.",
+        "en": "Your body makes creatine from three amino acids: arginine, glycine and methionine."
+      },
+      "source": "Wyss & Kaddurah-Daouk, Physiological Reviews (2000)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Duurdere vormen werken beter dan monohydraat.”",
+        "en": "“Pricier forms work better than monohydrate.”"
+      },
+      "fact": {
+        "nl": "Daar is geen bewijs voor. Monohydraat is het best onderzocht en meestal ook het goedkoopst.",
+        "en": "There is no evidence for that. Monohydrate is the best studied and usually also the cheapest."
+      },
+      "source": "Jäger et al., Amino Acids (2011)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Creatine is een van de best onderzochte sportsupplementen, met honderden studies.",
+        "en": "Creatine is one of the most studied sports supplements, with hundreds of studies."
+      },
+      "source": "Kreider et al., Journal of the ISSN (2017)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Na één schep ben je meteen sterker.”",
+        "en": "“One scoop makes you stronger right away.”"
+      },
+      "fact": {
+        "nl": "Het werkt pas als je spieren vol zijn: na ongeveer een week met een laadfase, of na zo’n vier weken met 3 gram per dag.",
+        "en": "It only works once your muscles are full: after about a week with a loading phase, or about four weeks at 3 grams a day."
+      },
+      "source": "Hultman et al., Journal of Applied Physiology (1996)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Je hersenen gebruiken creatine ook, als snelle reserve van energie.",
+        "en": "Your brain uses creatine too, as a quick energy reserve."
+      },
+      "source": "Wyss & Kaddurah-Daouk, Physiological Reviews (2000)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Creatine moet je met suiker nemen.”",
+        "en": "“You have to take creatine with sugar.”"
+      },
+      "fact": {
+        "nl": "Koolhydraten kunnen de opname wat verhogen, maar ook zonder raken je spieren vol als je het elke dag neemt.",
+        "en": "Carbs can raise the uptake a little, but your muscles fill up without them too if you take it every day."
+      },
+      "source": "Kreider et al., Journal of the ISSN (2017)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Bij gezonde mensen is creatine tot vijf jaar lang onderzocht, zonder nadelige effecten.",
+        "en": "In healthy people, creatine has been studied for up to five years without harmful effects."
+      },
+      "source": "Kreider et al., Journal of the ISSN (2017)"
+    },
+    {
+      "kind": "fabel",
+      "myth": {
+        "nl": "“Creatine is slecht voor je lever.”",
+        "en": "“Creatine is bad for your liver.”"
+      },
+      "fact": {
+        "nl": "Bij gezonde mensen vonden studies in de aanbevolen dosis geen schade aan de lever.",
+        "en": "In healthy people, studies found no liver damage at the recommended dose."
+      },
+      "source": "Kreider et al., Journal of the ISSN (2017)"
+    },
+    {
+      "kind": "feit",
+      "fact": {
+        "nl": "Vis zoals haring en zalm bevat creatine, net als rundvlees en varkensvlees.",
+        "en": "Fish like herring and salmon contain creatine, just like beef and pork."
+      },
+      "source": "Wyss & Kaddurah-Daouk, Physiological Reviews (2000)"
     }
   ]
 }
